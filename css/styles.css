@@ -1,4 +1,14 @@
+/*
 body {
   background-color: #ffe8df;
   font-family: monospace;
+} */
+
+.dark-background {
+  background-color: black;
+  color: white;
+}
+.light-background {
+  background-color: wheat;
+  color: darkblue;
 }
